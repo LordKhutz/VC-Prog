@@ -1,0 +1,12 @@
+c:\users\khuthi\documents\visual studio 2015\Projects\StockControl_GUI\StockControl_GUI\bin\Debug\StockControl_GUI.exe.config
+c:\users\khuthi\documents\visual studio 2015\Projects\StockControl_GUI\StockControl_GUI\bin\Debug\StockControl_GUI.exe
+c:\users\khuthi\documents\visual studio 2015\Projects\StockControl_GUI\StockControl_GUI\bin\Debug\StockControl_GUI.pdb
+c:\users\khuthi\documents\visual studio 2015\Projects\StockControl_GUI\StockControl_GUI\obj\Debug\StockControl_GUI.csprojResolveAssemblyReference.cache
+c:\users\khuthi\documents\visual studio 2015\Projects\StockControl_GUI\StockControl_GUI\obj\Debug\StockControl_GUI.frmMain.resources
+c:\users\khuthi\documents\visual studio 2015\Projects\StockControl_GUI\StockControl_GUI\obj\Debug\StockControl_GUI.Properties.Resources.resources
+c:\users\khuthi\documents\visual studio 2015\Projects\StockControl_GUI\StockControl_GUI\obj\Debug\StockControl_GUI.csproj.GenerateResource.Cache
+c:\users\khuthi\documents\visual studio 2015\Projects\StockControl_GUI\StockControl_GUI\obj\Debug\StockControl_GUI.exe
+c:\users\khuthi\documents\visual studio 2015\Projects\StockControl_GUI\StockControl_GUI\obj\Debug\StockControl_GUI.pdb
+c:\users\khuthi\documents\visual studio 2015\Projects\StockControl_GUI\StockControl_GUI\obj\Debug\StockControl_GUI.frmCaptureStock.resources
+c:\users\khuthi\documents\visual studio 2015\Projects\StockControl_GUI\StockControl_GUI\obj\Debug\StockControl_GUI.frmAbout.resources
+c:\users\khuthi\documents\visual studio 2015\Projects\StockControl_GUI\StockControl_GUI\obj\Debug\StockControl_GUI.frmDispStock.resources

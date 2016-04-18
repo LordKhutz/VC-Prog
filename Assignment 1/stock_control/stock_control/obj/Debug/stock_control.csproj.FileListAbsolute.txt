@@ -1,0 +1,5 @@
+C:\Users\Khuthi\Documents\Visual Studio 2015\Projects\stock_control\stock_control\bin\Debug\stock_control.exe.config
+C:\Users\Khuthi\Documents\Visual Studio 2015\Projects\stock_control\stock_control\bin\Debug\stock_control.exe
+C:\Users\Khuthi\Documents\Visual Studio 2015\Projects\stock_control\stock_control\bin\Debug\stock_control.pdb
+C:\Users\Khuthi\Documents\Visual Studio 2015\Projects\stock_control\stock_control\obj\Debug\stock_control.exe
+C:\Users\Khuthi\Documents\Visual Studio 2015\Projects\stock_control\stock_control\obj\Debug\stock_control.pdb
